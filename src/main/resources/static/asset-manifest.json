@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6c76a95d.chunk.css",
+    "main.js": "/static/js/main.daee3799.chunk.js",
+    "main.js.map": "/static/js/main.daee3799.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.ebbb1ef5.js",
+    "runtime~main.js.map": "/static/js/runtime~main.ebbb1ef5.js.map",
+    "static/js/2.fb95a926.chunk.js": "/static/js/2.fb95a926.chunk.js",
+    "static/js/2.fb95a926.chunk.js.map": "/static/js/2.fb95a926.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.3cacfdb43809f7cd31ebf6a234eb54e6.js": "/precache-manifest.3cacfdb43809f7cd31ebf6a234eb54e6.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.6c76a95d.chunk.css.map": "/static/css/main.6c76a95d.chunk.css.map",
+    "static/media/App.css": "/static/media/IRANSansMobileFaNum.7053ef9b.ttf"
+  }
+}
