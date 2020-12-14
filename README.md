@@ -1,4 +1,4 @@
-# auction-application
+# Auction Application
 This is the server side of an auction application based on Spring boot that we created it for Rahnema College Internship summer 2019.
 
 This application serves some REST APIs services and push notification (WebSocket) to the clients. It uses a relational database (MariaDB) to store the data.
